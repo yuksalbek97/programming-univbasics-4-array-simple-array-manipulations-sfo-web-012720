@@ -12,5 +12,8 @@ end
 
 def pop_with_args (array)
 last_item = array.pop(2)
+end
 
+def using_shift(array)
+  fist_item = array.shift 
 end
