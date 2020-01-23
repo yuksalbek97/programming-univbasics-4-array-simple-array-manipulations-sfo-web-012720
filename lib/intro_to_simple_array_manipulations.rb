@@ -17,3 +17,16 @@ end
 def using_shift(array)
   fist_item = array.shift 
 end
+
+def shift_with_args(array)
+first_items = array.shift(2)
+end
+
+
+
+
+
+
+
+
+
