@@ -3,5 +3,5 @@ def using_push (array,string)
 end
 
 def using.pop(array)
-  
+  array.pop
 end
