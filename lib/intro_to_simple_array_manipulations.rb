@@ -30,6 +30,11 @@ def using_insert (array,new_element)
 
 end
 
+def usig_flatten(array)
+
+end
+
+
 def using_delete(array, string)
 array.delete(string)
 end
